@@ -1,8 +1,10 @@
 # PRIMERA ENTREGA - CODERHOUSE
 
-**Comisión:** #57190
-Alumno: Fabián Meleán.
-**Lenguaje utilizado**: [SQL](https://dev.mysql.com/)
+Comision: #57190
+
+Alumno: Fabian Melean
+
+Lenguaje utilizado: [SQL](https://dev.mysql.com/)
 
 
 

@@ -1,7 +1,8 @@
 # PRIMERA ENTREGA - CODERHOUSE
 
+**Comisión:** #57190
 Alumno: Fabián Meleán.
-
+**Lenguaje utilizado**: [SQL](https://dev.mysql.com/)
 
 
 
@@ -55,9 +56,15 @@ Atributos: IDSUCURSAL, NOMBRE, DIRECCIÓN, TELÉFONO.
 Registro de los pedidos realizados por los clientes.
 Atributos: IDPEDIDORESERVA, IDCLIENTE, IDPRODUCTO, IDTIPOPEDIDORESERVA, FECHA.
 
+## DER
 
+Captura del DER una vez montado toda la base de datos en el lenguaje SQL.
 
-'''
+<center>
+<img src="https://github.com/Faboxx/SQL-CODERHOUSE-FABIAN-MELEAN/blob/main/der.png?raw=true" style="width: 100% ; aspect-ratio:12/9">
+</center>
+
+**Hipervínculo al script SQL** [(click aquí)](https://github.com/Faboxx/SQL-CODERHOUSE-FABIAN-MELEAN/blob/main/ecommerce.sql)
 
 
 

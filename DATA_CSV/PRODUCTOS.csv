@@ -1,0 +1,53 @@
+
+Copiar código
+IDPRODUCTO,MODELO,STOCK,PRECIO
+1,Samsung Galaxy S23,25,899.99
+2,Apple iPhone 14,30,1099.99
+3,Xiaomi Mi 11,20,499.99
+4,Oppo Reno 7,15,699.99
+5,Google Pixel 6,22,599.99
+6,OnePlus 9,18,749.99
+7,Sony Xperia 5 III,10,999.99
+8,Motorola Moto G Power,28,349.99
+9,Nokia X20,12,399.99
+10,Realme GT 2,25,529.99
+11,Apple iPhone SE (2022),35,429.99
+12,Samsung Galaxy A53,20,549.99
+13,Xiaomi Redmi Note 11,27,319.99
+14,Oppo Find X5,14,799.99
+15,Google Pixel 7,23,899.99
+16,OnePlus Nord N200,30,329.99
+17,Sony Xperia 10 III,16,469.99
+18,Motorola Edge 20,22,599.99
+19,Nokia 8.3 5G,11,579.99
+20,Realme Narzo 50,25,399.99
+21,Apple iPhone 13 Pro,28,1199.99
+22,Samsung Galaxy Z Fold 4,9,1799.99
+23,Xiaomi Mi Mix 4,15,849.99
+24,Oppo A76,20,349.99
+25,Google Pixel 6 Pro,18,899.99
+26,OnePlus 8T,25,649.99
+27,Sony Xperia 1 III,12,1199.99
+28,Motorola Moto G Stylus,27,449.99
+29,Nokia 7.2,14,429.99
+30,Realme GT Neo 3,20,599.99
+31,Apple iPhone 13,30,999.99
+32,Samsung Galaxy A72,22,649.99
+33,Xiaomi Poco X4 Pro,19,399.99
+34,Oppo Reno 6 Pro,16,799.99
+35,Google Pixel 5a,26,499.99
+36,OnePlus 7T,24,549.99
+37,Sony Xperia 5 II,11,799.99
+38,Motorola Moto E 2022,30,299.99
+39,Nokia 5.4,20,349.99
+40,Realme 9 Pro+,18,579.99
+41,Apple iPhone 12 Pro Max,15,1299.99
+42,Samsung Galaxy Z Flip 4,8,999.99
+43,Xiaomi Mi 11 Lite,25,419.99
+44,Oppo F19 Pro,14,489.99
+45,Google Pixel 6a,30,449.99
+46,OnePlus 9 Pro,20,999.99
+47,Sony Xperia 10 II,22,529.99
+48,Motorola Moto G10,27,349.99
+49,Nokia C30,16,299.99
+50,Realme 8 Pro,19,549.99

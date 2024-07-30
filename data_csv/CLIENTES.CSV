@@ -1,0 +1,51 @@
+IDCLIENTE,NOMBRE Y APELLIDO,DOCUMENTO,TELEFONO,EMAIL,DIRECCION DE ENTREGA
+1,Juan Perez,12345678,555-1234,juan.perez@example.com,Av. Libertador 123
+2,Ana Gomez,87654321,555-5678,ana.gomez@example.com,Calle Falsa 456
+3,Carlos Ruiz,11223344,555-8765,carlos.ruiz@example.com,Avenida Siempre Viva 789
+4,Laura Martinez,55667788,555-2345,laura.martinez@example.com,Paseo del Prado 101
+5,Pedro Fernandez,99887766,555-3456,pedro.fernandez@example.com,Calle de la Luna 202
+6,Mariana Lopez,22334455,555-4567,mariana.lopez@example.com,Av. de la Paz 303
+7,Diego Morales,33445566,555-5679,diego.morales@example.com,Calle de la Esperanza 404
+8,Isabel Vargas,44556677,555-6780,isabel.vargas@example.com,Plaza Mayor 505
+9,Roberto Silva,55667788,555-7891,roberto.silva@example.com,Av. del Sol 606
+10,Claudia Romero,66778899,555-8902,claudia.romero@example.com,Calle del Mar 707
+11,Andres Ruiz,77889900,555-9013,andres.ruiz@example.com,Av. de los Olivos 808
+12,Valeria Gonzalez,88990011,555-0124,valeria.gonzalez@example.com,Calle de las Flores 909
+13,Julian Castillo,99001122,555-1235,julian.castillo@example.com,Av. de los Jardines 100
+14,Daniela Martinez,10022334,555-2346,daniela.martinez@example.com,Paseo de la Reforma 101
+15,Federico Alvarez,11234567,555-3457,federico.alvarez@example.com,Calle de la Primavera 202
+16,Adriana Hernandez,12345678,555-4568,adriana.hernandez@example.com,Av. de la Libertad 303
+17,Oscar Rios,13456789,555-5678,oscar.rios@example.com,Calle de los Pinos 404
+18,Vanessa Castro,14567890,555-6789,vanessa.castro@example.com,Plaza de la Constitución 505
+19,Santiago Vargas,15678901,555-7890,santiago.vargas@example.com,Av. del Parque 606
+20,Paola Torres,16789012,555-8901,paola.torres@example.com,Calle del Río 707
+21,Andres Gomez,17890123,555-9012,andres.gomez@example.com,Av. de los Cedros 808
+22,Elena Ruiz,18901234,555-0123,elena.ruiz@example.com,Calle de la Sierra 909
+23,Nicolas Fernandez,19012345,555-1234,nicolas.fernandez@example.com,Av. del Valle 100
+24,Claudia Vargas,20123456,555-2345,claudia.vargas@example.com,Paseo del Campo 101
+25,Manuel Martinez,21234567,555-3456,manuel.martinez@example.com,Calle de los Ángeles 202
+26,Silvia Perez,22345678,555-4567,silvia.perez@example.com,Av. de la Montaña 303
+27,Antonio Gomez,23456789,555-5678,antonio.gomez@example.com,Calle de las Estrellas 404
+28,Jessica Morales,24567890,555-6789,jessica.morales@example.com,Plaza del Sol 505
+29,Martin Torres,25678901,555-7890,martin.torres@example.com,Av. de la Brisa 606
+30,Carolina Lopez,26789012,555-8901,carolina.lopez@example.com,Calle del Bosque 707
+31,Jaime Romero,27890123,555-9012,jaime.romero@example.com,Av. de la Primavera 808
+32,Patricia Castro,28901234,555-0123,patricia.castro@example.com,Calle de la Luna 909
+33,Victor Alvarez,29012345,555-1234,victor.alvarez@example.com,Av. del Río 100
+34,Lina Morales,30123456,555-2345,lina.morales@example.com,Paseo del Valle 101
+35,Leonardo Ruiz,31234567,555-3456,leonardo.ruiz@example.com,Calle del Castillo 202
+36,Beatriz Martinez,32345678,555-4567,beatriz.martinez@example.com,Av. de la Esperanza 303
+37,Roberto Gomez,33456789,555-5678,roberto.gomez@example.com,Calle del Viento 404
+38,Mariana Vargas,34567890,555-6789,mariana.vargas@example.com,Plaza del Parque 505
+39,Esteban Torres,35678901,555-7890,esteban.torres@example.com,Av. del Sol 606
+40,Juliana Castro,36789012,555-8901,juliana.castro@example.com,Calle de la Niebla 707
+41,Francisco Lopez,37890123,555-9012,francisco.lopez@example.com,Av. de la Libertad 808
+42,Natalia Ruiz,38901234,555-0123,natalia.ruiz@example.com,Calle del Jardín 909
+43,Pedro Castillo,39012345,555-1234,pedro.castillo@example.com,Av. de la Alegría 100
+44,Laura Morales,40123456,555-2345,laura.morales@example.com,Paseo del Horizonte 101
+45,Ricardo Gomez,41234567,555-3456,ricardo.gomez@example.com,Calle del Mar 202
+46,Carla Martinez,42345678,555-4567,carla.martinez@example.com,Av. de los Cedros 303
+47,Manuel Ruiz,43456789,555-5678,manuel.ruiz@example.com,Calle de la Aurora 404
+48,Monica Torres,44567890,555-6789,monica.torres@example.com,Plaza de los Sueños 505
+49,Javier Gonzalez,45678901,555-7890,javier.gonzalez@example.com,Av. del Crepúsculo 606
+50,Daniela Lopez,46789012,555-8901,daniela.lopez@example.com,Calle de la Risa 707

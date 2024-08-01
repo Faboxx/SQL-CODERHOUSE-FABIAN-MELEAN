@@ -1,4 +1,4 @@
-IDCLIENTE,NOMBRE,DOCUMENTO,TELEFONO,EMAIL,DIRECCION DE ENTREGA
+IDCLIENTE,NOMBRE,DNI,TELEFONO,EMAIL,DIRECCION_DE_ENTREGA
 1,Juan Perez,12345678,555-1234,juan.perez@example.com,Av. Libertador 123
 2,Ana Gomez,87654321,555-5678,ana.gomez@example.com,Calle Falsa 456
 3,Carlos Ruiz,11223344,555-8765,carlos.ruiz@example.com,Avenida Siempre Viva 789

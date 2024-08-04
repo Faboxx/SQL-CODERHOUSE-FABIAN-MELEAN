@@ -1,7 +1,10 @@
+Creacion de funciones
+
+USE ecommerce;
 
 -- Función para chequear todos los productos vendidos.
 
-DROP FUNCTION IF EXISTS Ecommerce.cantidad_vendida_por_producto;
+DROP FUNCTION IF EXISTS ecommerce.cantidad_vendida_por_producto;
 
 DELIMITER //
 
@@ -21,6 +24,8 @@ END //
 DELIMITER ;
 
 -- Funcion para contar las compras realizadas por un cliente.
+
+DROP FUNCTION IF EXISTS ecommerce.compras_cliente_total;
 
 DELIMITER //
 

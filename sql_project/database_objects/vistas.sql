@@ -86,14 +86,14 @@ FROM
 
 CREATE VIEW VistaResenas AS
 SELECT 
-    r.IDRESEÑA AS IDResena,
+    r.IDRESENA AS IDResena,
     p.MODELO AS Producto,
     c.NOMBRE AS Cliente,
     r.CALIFICACION AS Calificacion,
     r.COMENTARIO AS Comentario,
     r.FECHA AS Fecha
 FROM 
-    RESEÑAS r
+    RESENAS r
 JOIN 
     PRODUCTOS p ON r.IDPRODUCTO = p.IDPRODUCTO
 JOIN 

@@ -1,0 +1,51 @@
+IDPRODUCTO,IDCLIENTE,CALIFICACION,COMENTARIO,FECHA
+2,1,4,"Buena calidad, recomendado.",2024-07-01
+4,2,5,"Excelente producto, muy satisfecho.",2024-07-02
+6,3,3,"Producto aceptable, pero podria mejorar.",2024-07-03
+8,4,2,"No cumplio mis expectativas.",2024-07-04
+10,5,4,"Muy buen producto, lo volveria a comprar.",2024-07-05
+12,6,5,"Perfecto, excedio mis expectativas.",2024-07-06
+14,7,3,"Es lo que esperaba, pero podria ser mejor.",2024-07-07
+16,8,4,"Bueno, pero el servicio fue lento.",2024-07-08
+18,9,2,"No me gusto, falta calidad.",2024-07-09
+20,10,5,"Excelente, lo recomiendo.",2024-07-10
+22,11,4,"Satisfecho con el producto.",2024-07-11
+24,12,3,"Producto en linea con mis expectativas.",2024-07-12
+26,13,5,"Muy buen producto, lo recomiendo ampliamente.",2024-07-13
+28,14,2,"No es lo que esperaba, decepcionado.",2024-07-14
+30,15,4,"Cumple con lo prometido, buen producto.",2024-07-15
+32,16,5,"Muy bueno, lo compraria de nuevo.",2024-07-16
+34,17,3,"Regular, no es malo pero puede mejorar.",2024-07-17
+36,18,4,"Producto bueno y el envio fue rapido.",2024-07-18
+38,19,2,"No estoy satisfecho con la calidad.",2024-07-19
+40,20,5,"Excelente calidad, supero mis expectativas.",2024-07-20
+42,21,3,"Normal, no hay nada destacable.",2024-07-21
+44,22,5,"Perfecto, excelente en todos los aspectos.",2024-07-22
+46,23,4,"Buen producto, aunque un poco caro.",2024-07-23
+48,24,2,"No es bueno, no lo recomiendo.",2024-07-24
+50,25,5,"Fantastico, todo perfecto.",2024-07-25
+1,26,4,"Buen producto, pero algo caro.",2024-07-26
+3,27,3,"Aceptable, pero hay mejores opciones.",2024-07-27
+5,28,5,"Excelente producto, muy satisfecho.",2024-07-28
+7,29,2,"No cumplio con mis expectativas.",2024-07-29
+9,30,4,"Bueno, pero el envio fue lento.",2024-07-30
+11,31,3,"Regular, no es lo mejor que he comprado.",2024-07-31
+13,32,4,"Satisfecho, pero podria mejorar.",2024-08-01
+15,33,5,"Muy buen producto, lo recomiendo.",2024-08-02
+17,34,3,"Adecuado, pero esperaba mas.",2024-08-03
+19,35,4,"Buena calidad, pero el servicio fue malo.",2024-08-04
+21,36,2,"No estoy satisfecho, no es lo que esperaba.",2024-08-05
+23,37,4,"Bien, aunque el precio es alto.",2024-08-06
+25,38,5,"Perfecto, excelente producto.",2024-08-07
+27,39,3,"Regular, no cumplio completamente con mis expectativas.",2024-08-08
+29,40,4,"Bueno, pero el servicio de atencion al cliente podria mejorar.",2024-08-09
+31,41,2,"No estoy satisfecho con la calidad.",2024-08-10
+33,42,5,"Excelente en todos los aspectos.",2024-08-11
+35,43,4,"Muy bueno, aunque el envio fue lento.",2024-08-12
+37,44,3,"Es aceptable, pero esperaba mas.",2024-08-13
+39,45,5,"Fantastico, todo perfecto.",2024-08-14
+41,46,4,"Buen producto, buen servicio.",2024-08-15
+43,47,2,"No cumplio con mis expectativas.",2024-08-16
+45,48,3,"Regular, podria ser mejor.",2024-08-17
+47,49,5,"Fantastico, todo perfecto.",2024-08-18
+49,50,4,"Buen producto, pero el precio es alto.",2024-08-19

@@ -98,3 +98,19 @@ JOIN
     PRODUCTOS p ON r.IDPRODUCTO = p.IDPRODUCTO
 JOIN 
     CLIENTE c ON r.IDCLIENTE = c.IDCLIENTE;
+
+-- View para ver el historial del stock.
+
+CREATE VIEW vista_historial_stock AS
+SELECT 
+    hs.IDHISTORIAL_STOCK,
+    hs.IDPRODUCTO,
+    hs.CAMBIO,
+    hs.FECHA,
+    hs.RAZON,
+    p.MODELO
+FROM 
+    HISTORIAL_STOCK hs
+JOIN 
+    PRODUCTOS p ON hs.IDPRODUCTO = p.IDPRODUCTO;
+

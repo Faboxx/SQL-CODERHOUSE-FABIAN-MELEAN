@@ -2,7 +2,7 @@ CREATE DATABASE  IF NOT EXISTS `ecommerce` /*!40100 DEFAULT CHARACTER SET utf8mb
 USE `ecommerce`;
 -- MySQL dump 10.13  Distrib 8.0.36, for Win64 (x86_64)
 --
--- Host: localhost    Database: repositor_ruedas
+-- Host: localhost    Database: ecommerce
 -- ------------------------------------------------------
 -- Server version	8.0.36
 

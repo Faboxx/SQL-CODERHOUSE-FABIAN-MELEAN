@@ -1,7 +1,7 @@
 -- Registro de un nuevo producto y asi mismo, obtener el id del mismo.
 USE ecommerce;
 
- DROP PROCEDURE IF EXISTS ecommerce.nuevo_producto;
+DROP PROCEDURE IF EXISTS ecommerce.nuevo_producto;
 
 DELIMITER //
 
@@ -15,13 +15,13 @@ BEGIN
     -- VALOR DEL PARAMETRO DE SALIDA
     SET id_nuevo_producto = -1;
 
-     -- INSERCIÓN NUEVO PRODUCTO
-        INSERT INTO   (modelo, stock, precio)
-        VALUES (modelo, stock, precio);
+    -- INSERCIÓN NUEVO PRODUCTO
+    INSERT INTO productos (modelo, stock, precio)
+    VALUES (modelo, stock, precio);
 
-        -- OBTENER ID DEL PRODUCTO NUEVO
-        SET id_nuevo_producto = LAST_INSERT_ID();
-    END IF;
+    -- OBTENER ID DEL PRODUCTO NUEVO
+    SET id_nuevo_producto = LAST_INSERT_ID();
+
 END //
 
 

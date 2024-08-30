@@ -1,4 +1,4 @@
-Creacion de funciones
+-- Creacion de funciones
 
 USE ecommerce;
 

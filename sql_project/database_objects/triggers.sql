@@ -4,7 +4,7 @@ USE ecommerce;
 
 DELIMITER //
 
-CREATE TRIGGER ecommerce.cliente_mail;
+CREATE TRIGGER ecommerce.cliente_mail
 BEFORE INSERT ON CLIENTE
 FOR EACH ROW
 BEGIN
@@ -22,26 +22,6 @@ END //
 DELIMITER ;
 
 
--- Verificación para no tener errores al momento de la compra por tipeo en el stock del producto.
-
-DROP TRIGGER IF EXISTS ecommerce.max_cantidad_productos;
-
-DELIMITER //
-CREATE TRIGGER ecommerce.max_cantidad_productos
-AFTER INSERT ON productos
-FOR EACH ROW
-BEGIN
-    -- Colocaremos que la maxima operacion del mismo producto sea como máximo 2.
-    IF NEW.cantidad_prodcutos > 2 THEN
-        -- Devuelve el mensaje de error
-        SIGNAL SQLSTATE '45000'
-        SET MESSAGE_TEXT = 'La cantidad de productos no puede superar las 2 unidades';
-    END IF;
-END //
-DELIMITER ;	
-
-
-
 -- Verificación para que tire la alerta de que no se registró el numero de contacto del cliente.
 
 DROP TRIGGER IF EXISTS ecommerce.cliente_tel;
@@ -52,7 +32,7 @@ AFTER INSERT ON cliente
 FOR EACH ROW
 BEGIN
     -- Verifición de que el campo de teléfono no quede null.
-    IF NEW.cliente_telefono IS NULL OR NEW.cliente_telefono = '' THEN
+    IF NEW.telefono IS NULL OR NEW.telefono = '' THEN
         -- Dispara una alerta con lo que colocaremos a continuación.
         SIGNAL SQLSTATE '01000'
         SET MESSAGE_TEXT = 'El campo no puede quedar vacio.';
